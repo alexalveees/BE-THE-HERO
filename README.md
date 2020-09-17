@@ -1,9 +1,9 @@
 # Projeto Be-The-Hero
 Para executar como dependências
-yarn install
+`yarn install`
 
 Para executar a aplicação
-yarn start
+`yarn start`
 
 Executa o aplicativo no modo de desenvolvimento.
 Abra http: // localhost: 3000 para visualizá-lo no navegador.
